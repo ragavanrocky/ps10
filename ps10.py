@@ -9,5 +9,3 @@ for i in range(0,a):
             m=m+l[j]
 
 print(m)
-
-sgfdsgf
